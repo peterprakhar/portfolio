@@ -121,11 +121,11 @@ link: https://www.linkedin.com/in/prakhar-jain-4b4817254/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/Prakhar39092270
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/peterprakhar
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
